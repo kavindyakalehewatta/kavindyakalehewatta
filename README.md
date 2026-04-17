@@ -28,7 +28,7 @@
     💼 Open to <strong>AI/ML & Java</strong> collaborations<br><br>
     🌱 Learning Artificial Intelligence and Machine Learning Engineering 
     📍 Based in <strong>Kottawa, Colombo</strong><br><br>
-    ☕ "Every great idea starts with a cup of coffee"
+    ☕ "Every great idea starts with a cup of coffee."
   </samp>
 </p>
 

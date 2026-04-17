@@ -1,4 +1,3 @@
-
 <!-- Header with dynamic typing effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9C7A&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Kavindya!;Motivated+IT+Undergraduate;AI+%26+ML+Enthusiast;Full-Stack+Developer+in+the+making" alt="Typing SVG" />
@@ -25,7 +24,3 @@ B --> E[☕ Java Ecosystem];
 C --> F[🚀 Building intelligent systems];
 D --> G[⚡ Full-stack apps];
 E --> H[📱 Android (Kotlin)];
-
-
-
-

@@ -24,7 +24,7 @@
 😄  Fun fact: I believe every great idea starts with a cup of coffee!
 
 
-
+---
 
 
 | **Category** | **Technologies** |
@@ -39,7 +39,10 @@
 
 
 ---
+<p align="center"> <a href="https://github.com/kavindyakalehewatta"><img src="https://img.shields.io/badge/GitHub-@kavindyakalehewatta-181717?style=flat&logo=github"></a> <a href="mailto:kalehewattakavi0622@gmail.com"><img src="https://img.shields.io/badge/Email-kalehewattakavi0622@gmail.com-D14836?style=flat&logo=gmail"></a> <a href="https://www.linkedin.com/in/kavindya-kalehewatta-085896257/"><img src="https://img.shields.io/badge/LinkedIn-Kavindya_Kalehewatta-0077B5?style=flat&logo=linkedin"></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindyakalehewatta&label=Profile%20Views&color=2D9C7A&style=flat" alt="Profile views" /> <br/> ⭐ *If you like this profile, consider starring my repos!* ⭐ </p> ```
 
 
+---
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavindyakalehewatta&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2D9C7A&icon_color=2D9C7A" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindyakalehewatta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7A" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindyakalehewatta&theme=radical&hide_border=true&background=0D1117&stroke=2D9C7A&ring=2D9C7A&fire=FF9800&currStreakNum=FFFFFF" alt="GitHub Streak" /> </div>

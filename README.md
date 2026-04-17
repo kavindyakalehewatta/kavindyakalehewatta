@@ -14,16 +14,13 @@
   <a href="https://kavindya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 
   <a href="https://www.linkedin.com/in/kavindya-kalehewatta-32bb1a304">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1BsKYPgnVb/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kavi_9922?igsh=MXIxYnMxc2U3YjFqZw==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   
 </p>
   
@@ -139,19 +136,16 @@
 
 
 
+---
 
+## 🏆 GitHub Achievements
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kavindyakalehewatta&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
 
 ---
 
-## 🤝 Let's Connect
-
-
-<p align="center">
-  <code>📧 kalehewattakavi0622@gmail.com</code>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <code>🔗 linkedin.com/in/kavindya-kalehewatta</code>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <code>🌐 kavindya.vercel.app</code>
-</p>
 
 
 <!-- Profile Views Counter -->

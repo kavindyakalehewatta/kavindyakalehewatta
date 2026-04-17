@@ -19,20 +19,7 @@
 ---
 
 ## 👩‍💻 About Me
-
-<div align="center">
-
-| | |
-|--|--|
-| 🎓 **Education** | SLIIT University - BSc in Information Technology |
-| 🔭 **Current Focus** | Information Technology Undergraduate |
-| 🌱 **Learning** | Artificial Intelligence and Machine Learning Engineering |
-| 👯 **Collaboration** | AI/ML and Java projects |
-| 💬 **Expertise** | Web Development, AI/ML |
-| 📍 **Location** | Kottawa, Colombo |
-| ☕ **Fun Fact** | Every great idea starts with a cup of coffee! |
-
-</div>
+<br>
 
 <p align="center">
   <samp>
@@ -52,6 +39,20 @@
 </p>
 
 ---
+## 🔥 Currently Focusing On
+
+<div align="center">
+
+| 🎯 **Goal** | 📚 **Resources** | ⏰ **Timeline** |
+|------------|------------------|-----------------|
+| AI/ML Engineering | Coursera + Kaggle | 2026 |
+| Full-Stack Mastery | MERN + Java Spring | Ongoing |
+| Kotlin Android | Official Docs + Projects | 2026 |
+
+</div>
+
+--
+
 
 ## 🛠️ Tech Stack
 
@@ -69,40 +70,52 @@
 
 ---
 
+
+### 📊 Languages by Repository Usage
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindyakalehewatta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7A&card_width=500" alt="Languages" />
+  
+  *Auto-updates based on your repository code*
+</div>
+
+
+---
+
 ## 📌 Featured Projects
 
 <div align="center">
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [**Smart Home Stock Management**](https://github.com/kavindyakalehewatta/Smart-Home-Stock-and-Sharing-Management-System) | `React` `Node.js` `MongoDB` | Full-stack app for household inventory & donation management |
-| [**Fake News Detection (ML)**](https://github.com/kavindyakalehewatta/Fake_news_detection-ML-) | `Python` `NLP` `scikit-learn` | AI model to classify misinformation using text credibility |
-| [**ToDo Task App**](https://github.com/kavindyakalehewatta/ToDoTaskApp) | `Kotlin` `Android` | Minimalist productivity app for daily tasks |
-| [**ITP Project**](https://github.com/kavindyakalehewatta/ITP--2) | `JavaScript` `HTML5` `CSS3` | Second-year academic team project |
-
-👉 <a href="https://github.com/kavindyakalehewatta?tab=repositories"><strong>View All Repositories →</strong></a>
+| Project | Stack | Status | Description |
+|---------|-------|--------|-------------|
+| 🏠 **Smart Home Stock** | `MERN` | 🟢 Active | Inventory & donation management |
+| 📰 **Fake News Detection** | `Python` `NLP` | 🟡 Learning | ML text classification |
+| ✅ **ToDo Task App** | `Kotlin` | 🔵 Complete | Android productivity app |
+| 📚 **ITP Project** | `JS/HTML/CSS` | 🟢 Active | Academic team project |
 
 </div>
 
+<p align="center">
+  🔍 <a href="https://github.com/kavindyakalehewatta?tab=repositories"><strong>Browse all 6+ repositories →</strong></a>
+</p>
+
 ---
+
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavindyakalehewatta&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2D9C7A&icon_color=2D9C7A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindyakalehewatta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7A" />
-</div>
+  
+| | |
+|--|--|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavindyakalehewatta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7A&icon_color=2D9C7A&hide=issues,contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindyakalehewatta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7A&card_width=400) |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindyakalehewatta&theme=radical&hide_border=true&background=0D1117&stroke=2D9C7A&ring=2D9C7A&fire=FF9800&currStreakNum=FFFFFF" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavindyakalehewatta&theme=radical&hide_border=true&background=0D1117&stroke=2D9C7A&ring=2D9C7A&fire=FF9800)
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindyakalehewatta&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=2D9C7A&line=2D9C7A&point=FFFFFF" width="90%" alt="Activity Graph" />
 </div>
-
 ---
+
 
 ## 🏆 GitHub Trophies
 
@@ -112,21 +125,38 @@
 
 ---
 
-## 🤝 Let's Connect
-
 <p align="center">
-  <a href="https://github.com/kavindyakalehewatta"><img src="https://img.shields.io/badge/GitHub-@kavindyakalehewatta-181717?style=flat&logo=github"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kalehewattakavi0622@gmail.com"><img src="https://img.shields.io/badge/Email-kalehewattakavi0622@gmail.com-D14836?style=flat&logo=gmail"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kavindya-kalehewatta-085896257/"><img src="https://img.shields.io/badge/LinkedIn-Kavindya_Kalehewatta-0077B5?style=flat&logo=linkedin"></a>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=kavindyakalehewatta" width="400"/>
 </p>
 
 ---
 
+## 🤝 Let's Connect
+
+
+<p align="center">
+  <code>📧 kalehewattakavi0622@gmail.com</code>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>🔗 linkedin.com/in/kavindya-kalehewatta</code>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>🌐 kavindya.vercel.app</code>
+</p>
+
+
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavindyakalehewatta&label=Profile%20Views&color=2D9C7A&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+<p align="center">
+  <i>Building the future, one commit at a time 🚀</i>
 </p>
 
 <!-- Animated Footer Wave -->

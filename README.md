@@ -4,12 +4,29 @@
 </p>
 <br><br>
 <!-- Social Links -->
+
+## 🌐 Socials
+
 <p align="center">
   <a href="mailto:kalehewattakavi0622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/kavindya-kalehewatta-085896257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/kavindyakalehewatta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://kavindya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+
+  <a href="https://www.linkedin.com/in/kavindya-kalehewatta-32bb1a304">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1BsKYPgnVb/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kavi_9922?igsh=MXIxYnMxc2U3YjFqZw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
 </p>
+  
 
 ---
 <!-- Animated Quote -->
@@ -32,7 +49,6 @@
 <p align="center">
   <samp>
     🎓 <strong>SLIIT</strong> | BSc in Information Technology<br><br>
-    🌱 Currently diving deep into <strong>AI/ML Engineering</strong><br><br>
     💼 Open to <strong>AI/ML & Java</strong> collaborations<br><br>
     🌱 Learning Artificial Intelligence and Machine Learning Engineering 
     📍 Based in <strong>Kottawa, Colombo</strong><br><br>
@@ -41,21 +57,7 @@
 </p>
 
 
-## 🌐 Socials
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavindya-kalehewatta-32bb1a304">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1BsKYPgnVb/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kavi_9922?igsh=MXIxYnMxc2U3YjFqZw==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
 
 ---
 ## 🔥 Currently Focusing On

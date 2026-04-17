@@ -11,6 +11,14 @@
   <a href="https://kavindya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
+---
+<!-- Animated Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Passionate%20and%20eager%20to%20learn%20from%20challenges&author=Kavindya%20Kalehewatta" alt="Quote" />
+</p>
+
+<br>
+
 <!-- Animated Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2D9C7A&height=100&section=header&text=Kavindya%20Kalehewatta&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
@@ -33,10 +41,7 @@
 </p>
 
 
-<!-- Animated Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Passionate%20and%20eager%20to%20learn%20from%20challenges&author=Kavindya%20Kalehewatta" alt="Quote" />
-</p>
+
 
 ---
 ## 🔥 Currently Focusing On
@@ -51,7 +56,7 @@
 
 </div>
 
---
+---
 
 
 ## 🛠️ Tech Stack
@@ -114,14 +119,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavindyakalehewatta&theme=radical&hide_border=true&background=0D1117&stroke=2D9C7A&ring=2D9C7A&fire=FF9800)
 
 </div>
----
 
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavindyakalehewatta&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ---
 

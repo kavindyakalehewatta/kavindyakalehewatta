@@ -122,11 +122,8 @@
 
 
 
----
 
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=kavindyakalehewatta" width="400"/>
-</p>
+
 
 ---
 

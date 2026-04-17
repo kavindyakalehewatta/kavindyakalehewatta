@@ -26,8 +26,9 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/kavindyakalehewatta"><img src="https://img.shields.io/badge/GitHub-@kavindyakalehewatta-181717?style=flat&logo=github"></a> <a href="mailto:kalehewattakavi0622@gmail.com"><img src="https://img.shields.io/badge/Email-kalehewattakavi0622@gmail.com-D14836?style=flat&logo=gmail"></a> <a href="https://www.linkedin.com/in/kavindya-kalehewatta-085896257/"><img src="https://img.shields.io/badge/LinkedIn-Kavindya_Kalehewatta-0077B5?style=flat&logo=linkedin"></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindyakalehewatta&label=Profile%20Views&color=2D9C7A&style=flat" alt="Profile views" /> <br/> ⭐ *If you like this profile, consider starring my repos!* ⭐ </p>
+
+
+
 ---
 
 | **Category** | **Technologies** |

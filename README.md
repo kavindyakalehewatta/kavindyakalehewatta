@@ -182,32 +182,25 @@
 
 <br><br>
 
----
-
-<br><br>
----
-
-
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavindyakalehewatta&label=Profile%20Views&color=2D9C7A&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
+<br><br>
+---
 
+<!-- Profile Views Counter -->
 <p align="center">
-  <i>Building the future, one commit at a time 🚀</i>
+  <img src="https://komarev.com/ghpvc/?username=kavindyakalehewatta&label=Profile%20Views&color=2D9C7A&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<br><br>
 
 <!-- Animated Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8a508f&height=150&section=footer" width="100%"/>
 </p>
+
+

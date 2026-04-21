@@ -197,6 +197,10 @@
 
 <br><br>
 
+<hr style="border: 1px solid #2D9C7A;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavindyakalehewatta/kavindyakalehewatta/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=2D9C7A" />
+</p>
 
 
 </p>

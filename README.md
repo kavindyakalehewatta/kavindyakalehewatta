@@ -15,10 +15,18 @@
 ##  Socials
 
 <p align="center">
-  <a href="mailto:kalehewattakavi0622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
-  <a href="https://www.linkedin.com/in/kavindya-kalehewatta-085896257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-  <a href="https://github.com/kavindyakalehewatta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
-  <a href="https://kavindya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a>
+  <a href="mailto:kalehewattakavi0622@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kavindya-kalehewatta-085896257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kavindyakalehewatta">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kavindya.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kavindya-kalehewatta-32bb1a304">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;

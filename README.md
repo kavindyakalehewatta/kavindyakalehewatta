@@ -100,7 +100,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)&nbsp;&nbsp;&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) &nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;&nbsp;&nbsp;
@@ -173,23 +172,35 @@
 
 <br><br>
 ---
+## 📊 Skill Levels
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-85%25-2D9C7A?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-80%25-2D9C7A?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/JavaScript-75%25-2D9C7A?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-70%25-2D9C7A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-65%25-2D9C7A?style=for-the-badge&logo=tensorflow"/>
+
+</p>
+
+
+
+<br><br>
+---
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavindyakalehewatta&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kavindyakalehewatta&theme=radical&no-frame=true&margin-w=10" />
 </div>
 
+
 <br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+
 </p>
-<br><br>
----
+
 
 <!-- Profile Views Counter -->
 <p align="center">

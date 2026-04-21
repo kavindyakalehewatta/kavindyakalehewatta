@@ -199,9 +199,11 @@
 
 <hr style="border: 1px solid #2D9C7A;">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kavindyakalehewatta/kavindyakalehewatta/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=2D9C7A" />
+  <img src="https://raw.githubusercontent.com/kavindyakalehewatta/kavindyakalehewatta/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+
+<img src="https://github-profile-trophy.vercel.app/?username=kavindyakalehewatta&theme=radical&no-frame=true&margin-w=10" />
 
 
 

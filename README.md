@@ -37,6 +37,7 @@
 
 ---
 <!-- Animated Quote -->
+<br><br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Passionate%20and%20eager%20to%20learn%20from%20challenges&author=Kavindya%20Kalehewatta" alt="Quote" />
 </p>
@@ -61,6 +62,7 @@
 
 
 ---
+
 ## 🔥 Currently Focusing On
 
 <div align="center">
@@ -73,7 +75,7 @@
 
 </div>
 <br><br>
----
+
 
 
 ## 🛠️ Tech Stack

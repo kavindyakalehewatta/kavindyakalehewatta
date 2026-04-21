@@ -190,27 +190,6 @@
 
 <br><br>
 ---
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavindyakalehewatta&theme=radical&no-frame=true&margin-w=12" />
-</div>
-
-<br>
-
-<hr style="border: 1px solid #2D9C7A; width: 80%;">
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kavindyakalehewatta/kavindyakalehewatta/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-
-
-
-
-
 
 <!-- Profile Views Counter -->
 <p align="center">

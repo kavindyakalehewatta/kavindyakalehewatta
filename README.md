@@ -1,18 +1,29 @@
+
+<!-- Animated Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D9C7A&height=100&section=header&text=Kavindya%20Kalehewatta&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
+
 <!-- Header with dynamic typing effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9C7A&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Kavindya!;Motivated+IT+Undergraduate;AI+%26+ML+Enthusiast;Full-Stack+Developer+in+the+making" alt="Typing SVG" />
 </p>
 <br><br>
+
+
+
+---
+
 <!-- Social Links -->
 
 ## 🌐 Socials
 
 <p align="center">
-  <a href="mailto:kalehewattakavi0622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/kavindya-kalehewatta-085896257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/kavindyakalehewatta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://kavindya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-
+  <a href="mailto:kalehewattakavi0622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
+  <a href="https://www.linkedin.com/in/kavindya-kalehewatta-085896257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+  <a href="https://github.com/kavindyakalehewatta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
+  <a href="https://kavindya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a>
   <a href="https://www.linkedin.com/in/kavindya-kalehewatta-32bb1a304">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;
@@ -31,13 +42,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Passionate%20and%20eager%20to%20learn%20from%20challenges&author=Kavindya%20Kalehewatta" alt="Quote" />
 </p>
 
-<br>
-
-<!-- Animated Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D9C7A&height=100&section=header&text=Kavindya%20Kalehewatta&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
-
+<br><br>
 ---
 
 ## 👩‍💻 About Me

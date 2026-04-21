@@ -1,7 +1,7 @@
 <!-- Animated Wave -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8531&height=100&section=header&text=Kavindya%20Kalehewatta&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8a508f&height=100&section=header&text=Kavindya%20Kalehewatta&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 <br><br>
 

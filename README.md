@@ -1,9 +1,9 @@
-
 <!-- Animated Wave -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2D9C7A&height=100&section=header&text=Kavindya%20Kalehewatta&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
-
+<br><br>
 
 <!-- Header with dynamic typing effect -->
 <p align="center">
@@ -11,13 +11,8 @@
 </p>
 <br><br>
 
-
-
----
-
 <!-- Social Links -->
-
-## 🌐 Socials
+##  Socials
 
 <p align="center">
   <a href="mailto:kalehewattakavi0622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
@@ -32,7 +27,6 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kavi_9922?igsh=MXIxYnMxc2U3YjFqZw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  
 </p>
   
 

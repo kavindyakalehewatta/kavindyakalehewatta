@@ -27,10 +27,10 @@
   <a href="https://kavindya.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1BsKYPgnVb/">
+  <a href="https://www.facebook.com/share/1BsKYPgnVb/](https://www.facebook.com/share/18hZQNa9D8/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kavi_9922?igsh=MXIxYnMxc2U3YjFqZw==">
+  <a href="https://www.instagram.com/kavi_9922?igsh=MXIxYnMxc2U3YjFqZw==](https://www.instagram.com/kavi_9922/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
   

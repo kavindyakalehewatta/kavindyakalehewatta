@@ -27,10 +27,10 @@
   <a href="https://kavindya.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1BsKYPgnVb/](https://www.facebook.com/share/18hZQNa9D8/">
+  <a href="https://www.facebook.com/share/18hZQNa9D8/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kavi_9922?igsh=MXIxYnMxc2U3YjFqZw==](https://www.instagram.com/kavi_9922/">
+  <a href="https://www.instagram.com/kavi_9922/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
   
@@ -163,9 +163,7 @@
 
 <div align="center">
   
-| | |
-|--|--|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavindyakalehewatta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7A&icon_color=2D9C7A&hide=issues,contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindyakalehewatta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7A&card_width=400) |
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavindyakalehewatta&theme=radical&hide_border=true&background=0D1117&stroke=2D9C7A&ring=2D9C7A&fire=FF9800)
 
@@ -174,22 +172,7 @@
 
 <br><br>
 ---
-## 📊 Skill Levels
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-85%25-2D9C7A?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Java-80%25-2D9C7A?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/JavaScript-75%25-2D9C7A?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/React-70%25-2D9C7A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-65%25-2D9C7A?style=for-the-badge&logo=tensorflow"/>
-
-</p>
-
-
-
-<br><br>
----
 
 <!-- Profile Views Counter -->
 <p align="center">

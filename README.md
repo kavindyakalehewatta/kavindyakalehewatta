@@ -127,17 +127,6 @@
 ---
 
 
-### 📊 Languages by Repository Usage
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindyakalehewatta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7A&card_width=500" alt="Languages" />
-  
-  *Auto-updates based on your repository code*
-</div>
-
-<br><br>
----
-
 ## 📌 Featured Projects
 
 <div align="center">
